@@ -1,0 +1,30 @@
+2020-11-18 13:10:30,757:INFO:discord.client: logging in using static token
+2020-11-18 13:10:31,047:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+2020-11-18 13:10:31,052:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2020-11-18 13:10:31,221:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-bz4p",{"micros":128253,"calls":["discord-sessions-prd-2-91",{"micros":126165,"calls":["start_session",{"micros":103789,"calls":["api-prd-main-bw6z",{"micros":93820,"calls":["get_user",{"micros":5702},"add_authorized_ip",{"micros":8700},"get_guilds",{"micros":32335},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":11,"calls":[]},"presence_connect",{"micros":2,"calls":[]}]}]}] (Session ID: 01c9c9a848ca8b85c781cc21dac65cc5).
+2020-11-18 14:42:54,577:INFO:discord.gateway: Received RECONNECT opcode.
+2020-11-18 14:42:54,622:INFO:discord.client: Got a request to RESUME the websocket.
+2020-11-18 14:42:54,787:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+2020-11-18 14:42:54,789:INFO:discord.gateway: Shard ID None has sent the RESUME payload.
+2020-11-18 14:42:54,832:INFO:discord.gateway: Shard ID None has successfully RESUMED session 01c9c9a848ca8b85c781cc21dac65cc5 under trace ["gateway-prd-main-l9jq",{"micros":1345,"calls":["discord-sessions-prd-2-91",{"micros":35}]}].
+2020-11-18 15:42:27,402:INFO:discord.gateway: Received RECONNECT opcode.
+2020-11-18 15:42:27,443:INFO:discord.client: Got a request to RESUME the websocket.
+2020-11-18 15:42:27,627:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+2020-11-18 15:42:27,630:INFO:discord.gateway: Shard ID None has sent the RESUME payload.
+2020-11-18 15:42:27,682:INFO:discord.gateway: Shard ID None has successfully RESUMED session 01c9c9a848ca8b85c781cc21dac65cc5 under trace ["gateway-prd-main-c00x",{"micros":6341,"calls":["discord-sessions-prd-2-91",{"micros":16}]}].
+2020-11-18 16:16:48,505:INFO:discord.gateway: Websocket closed with 1006 (), attempting a reconnect.
+2020-11-18 16:16:48,506:INFO:discord.client: Got a request to RESUME the websocket.
+2020-11-18 16:16:48,734:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+2020-11-18 16:16:48,736:INFO:discord.gateway: Shard ID None has sent the RESUME payload.
+2020-11-18 16:16:48,784:INFO:discord.gateway: Shard ID None has successfully RESUMED session 01c9c9a848ca8b85c781cc21dac65cc5 under trace ["gateway-prd-main-6402",{"micros":1723,"calls":["discord-sessions-prd-2-91",{"micros":34}]}].
+2020-11-18 16:17:31,465:WARNING:discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+2020-11-18 16:54:35,517:INFO:discord.gateway: Received RECONNECT opcode.
+2020-11-18 16:54:35,566:INFO:discord.client: Got a request to RESUME the websocket.
+2020-11-18 16:54:35,744:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+2020-11-18 16:54:35,746:INFO:discord.gateway: Shard ID None has sent the RESUME payload.
+2020-11-18 16:54:35,795:INFO:discord.gateway: Shard ID None has successfully RESUMED session 01c9c9a848ca8b85c781cc21dac65cc5 under trace ["gateway-prd-main-85x6",{"micros":4231,"calls":["discord-sessions-prd-2-91",{"micros":35}]}].
+2020-11-18 18:18:48,730:INFO:discord.gateway: Received RECONNECT opcode.
+2020-11-18 18:18:48,794:INFO:discord.client: Got a request to RESUME the websocket.
+2020-11-18 18:18:49,043:INFO:discord.gateway: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+2020-11-18 18:18:49,048:INFO:discord.gateway: Shard ID None has sent the RESUME payload.
+2020-11-18 18:18:49,095:INFO:discord.gateway: Shard ID None has successfully RESUMED session 01c9c9a848ca8b85c781cc21dac65cc5 under trace ["gateway-prd-main-jvn8",{"micros":602,"calls":["discord-sessions-prd-2-91",{"micros":27}]}].
